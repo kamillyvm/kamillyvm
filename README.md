@@ -30,3 +30,7 @@
   <img align="center" alt="Kamy-Fg" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   
 </div>
+
+##
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=110&section=footer"/>
