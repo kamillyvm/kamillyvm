@@ -35,4 +35,12 @@
 
 ##
 
+<div align="center">
+<p align="centre"><b>Visitors Count</b></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=FFB6C1&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+
+</div>
+
+##
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=110&section=footer"/>
