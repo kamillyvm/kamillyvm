@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFB6C1"/>
 
-<h3 align="center">Olá! Eu sou Kamilly</h3>
+<h2 align="center">Olá! Eu sou Kamilly</h2>
 <br>
 
 <div align="center">
