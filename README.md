@@ -1,17 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=dcdcdc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ececec"/>
 
 <h2 align="center">Olá! Eu sou Kamilly</h2>
 <br>
 
 <div align="center">
   <a href="https://github.com/kamillyvm">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=dark&title_color=dcdcdc&icon_color=dcdcdc&text_color=c1d9d9&bg_color=0d1117">
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&hide_border=true&title_color=dcdcdc&icon_color=dcdcdc&text_color=c1d9d9&langs_count=16&theme=dark&bg_color=0d1117">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=dark&title_color=ececec&icon_color=ececec&text_color=c1d9d9&bg_color=0d1117">
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&hide_border=true&title_color=ececec&icon_color=ececec&text_color=c1d9d9&langs_count=16&theme=dark&bg_color=0d1117">
 </div>
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamillyvm&bg_color=0d1117&color=dcdcdc&line=dcdcdc&point=c1d9d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamillyvm&bg_color=0d1117&color=ececec&line=ececec&point=c1d9d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
@@ -41,10 +41,10 @@
 <br>
 
 <div align="center">
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=dcdcdc&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=ececec&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 
 </div>
 
 ##
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dcdcdc&height=110&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ececec&height=110&section=footer"/>
