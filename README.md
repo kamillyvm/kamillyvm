@@ -1,8 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ececec"/>
 
-<h2 align="center">Olá! Eu sou Kamilly</h2>
-<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ECECEC&width=435&center=true&lines=Hi!+My+name+is+Kamilly;Systems+Analyst+and+Developer;Also+Designer" alt="Typing SVG"/>
+</div>
 
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/kamillyvm">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=dark&title_color=ececec&icon_color=ececec&text_color=c1d9d9&bg_color=0d1117">
