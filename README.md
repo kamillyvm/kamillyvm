@@ -14,7 +14,7 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamillyvm&bg_color=0d1117&color=4594c1&line=ececec&point=c1d9d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamillyvm&bg_color=0d1117&color=4594c1&line=4594c1&point=c1d9d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
