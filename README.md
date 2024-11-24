@@ -1,15 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ececec"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4594c1"/>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=ECECEC&width=900&center=true&lines=Hello!+My+name+is+Kamilly;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=4594c1&width=900&center=true&lines=Hello!+My+name+is+Kamilly;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer" alt="Typing SVG"/>
 </div>
 
 <br>
 <br>
 <div align="center">
   <a href="https://github.com/kamillyvm">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=dark&title_color=ececec&icon_color=ececec&text_color=c1d9d9&bg_color=0d1117">
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&hide_border=true&title_color=ececec&icon_color=ececec&text_color=c1d9d9&langs_count=16&theme=dark&bg_color=0d1117">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=dark&title_color=4594c1&icon_color=4594c1&text_color=c1d9d9&bg_color=0d1117">
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&hide_border=true&title_color=4594c1&icon_color=ececec&text_color=c1d9d9&langs_count=16&theme=dark&bg_color=0d1117">
 </div>
 
 ##
@@ -45,7 +45,7 @@
 <br>
 
 <div align="center">
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=ececec&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=4594c1&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 
 </div>
 
