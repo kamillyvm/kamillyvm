@@ -1,22 +1,22 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4594c1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=61dafb"/>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=4594c1&width=900&size=25&center=true&lines=Hello!+My+name+is+Kamilly;I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=61dafb&width=900&size=25&center=true&lines=Hello!+My+name+is+Kamilly;I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
 <br>
 <div align="center">
-  <a href="https://github.com/kamillyvm">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=dark&title_color=4594c1&icon_color=4594c1&text_color=c1d9d9&bg_color=0d1117">
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&hide_border=true&title_color=4594c1&icon_color=ececec&text_color=c1d9d9&langs_count=16&theme=dark&bg_color=0d1117">
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&hide=Html,Markdown&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=react&utcOffset=3) |
+| :-: | :-: | :-: |
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=react) | ![](https://github-readme-streak-stats.herokuapp.com/?user=kamillyvm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+  
 </div>
-
-##
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamillyvm&bg_color=0d1117&color=4594c1&line=4594c1&point=c1d9d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-##
+<br>
+<br>
 
 <div align="center">
 
@@ -39,8 +39,8 @@
   <img width="37" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
   
 </div>
-
-##
+<br>
+<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">
@@ -48,10 +48,10 @@
 <br>
 
 <div align="center">
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=4594c1&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=61dafb&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 
 </div>
+<br>
+<br>
 
-##
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4594c1&height=110&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=110&section=footer"/>
