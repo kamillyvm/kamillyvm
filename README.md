@@ -1,5 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=61dafb"/>
 
+<div align="center">
+  <h4>🩵</h4>
+</div>
+
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=61dafb&width=900&size=25&center=true&lines=Hello!+My+name+is+Kamilly;I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
