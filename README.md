@@ -54,6 +54,12 @@
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=9146FF&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 
 </div>
+<div align="center"> 
+
+<sup>[**rentry**](https://rentry.co/8c6frybg)</sub></sup>
+
+</div>
+
 <br>
 <br>
 
