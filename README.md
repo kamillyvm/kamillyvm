@@ -24,10 +24,12 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:kamillymedino2@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/kamyzmedino/?next=%2F)
+  [![Reddit](https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=Reddit&logoColor=ff4500)](https://www.reddit.com/user/kamomiila/)
   [![Twitch](https://img.shields.io/badge/Twitch-000?style=for-the-badge&logo=twitch&logoColor=9143FF)](https://www.twitch.tv/kakamomila)
   [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=7289DA)](https://discord.com/invite/HA49yt7m)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5584988964920)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  
   
 </div>
 
