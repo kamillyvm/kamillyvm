@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <b>`プ ロ グ ラ マ`</b>
+  <b>`Программист`</b>
   <samp>
       <br>
       Hi there! I'm <b>Kamilly Medino</b>
