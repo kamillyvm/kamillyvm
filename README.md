@@ -29,8 +29,11 @@
 <br>
       
 <div align="center">
+  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&theme=aura">
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=aura">
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=ayu_mirage"/>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=aura"/>
 </div>
 
 <br>
@@ -84,7 +87,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=755b25" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=6440B0" /></p> 
 </div>
 
 <br>
