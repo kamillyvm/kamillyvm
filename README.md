@@ -78,7 +78,6 @@
 
   <a href="mailto:kamillymedino2@gmail.com"><img width="70" height="70" alt="Gmail" src="https://github.com/user-attachments/assets/939e2a8c-d89c-4e2f-8e4a-45d5d55dda4d" /></a>
   <a href="https://www.instagram.com/km.medino/?next=%2F"><img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/8fe6a7e2-9e4b-49da-a39a-1949a2cec147" /></a>
-  <a href="https://discord.gg/8kc8HqXVw2"><img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/e456560b-5bcb-4612-a13a-2c33e56c0a22" /></a>
   <a href="https://www.linkedin.com/in/kamilly-medino-b72a3b33a/"><img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/b63805b1-9f73-43de-87fb-9b510d3674aa" /></a>
   
 </div>
